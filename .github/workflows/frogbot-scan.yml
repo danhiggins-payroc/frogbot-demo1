@@ -18,7 +18,7 @@ jobs:
       - name: Run Frogbot
         uses: jfrog/frogbot@v2
         env:
-          JF_URL: ${{ secrets.JF_URL }}
+          JF_URL: https://dml.corp.payroc.com
           JF_ACCESS_TOKEN: ${{ secrets.JF_ACCESS_TOKEN }}
           JF_GIT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           JF_GIT_BASE_BRANCH: main # Change to your target branch
