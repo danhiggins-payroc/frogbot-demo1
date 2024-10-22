@@ -1,0 +1,10 @@
+{
+    "name": "vulnerable-app",
+    "version": "1.0.0",
+    "description": "A sample app with vulnerable dependencies",
+    "main": "index.js",
+    "dependencies": {
+      "lodash": "4.17.11"  
+    }
+  }
+  

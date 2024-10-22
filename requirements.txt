@@ -1,0 +1,2 @@
+flask==0.12  # Older version of Flask with vulnerabilities
+requests==2.19.1  # Vulnerable version of requests library
