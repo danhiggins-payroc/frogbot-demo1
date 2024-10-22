@@ -1,2 +1,6 @@
-flask==0.12  # Older version of Flask with vulnerabilities
-requests==2.19.1  # Vulnerable version of requests library
+Flask==0.5  # Vulnerable to CVE-2018-1000656
+requests==2.0.0  # Vulnerable to CVE-2018-18074
+Django==1.2.5  # Vulnerable to multiple CVEs
+pyyaml==3.10  # Vulnerable to CVE-2017-18342
+flask==2.0.1
+requests==2.25.1
