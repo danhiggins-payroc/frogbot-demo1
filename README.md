@@ -1,3 +1,3 @@
 # frogbot-demo
 
-[![Scanned by Frogbot](https://raw.github.com/jfrog/frogbot/master/images/frogbot-badge.svg)](https://docs.jfrog-applications.jfrog.io/jfrog-applications/frogbot)
+[![Frogbot Scan Repository](https://github.com/danhiggins-payroc/frogbot-demo1/actions/workflows/frogbot-scan.yml/badge.svg?branch=main)](https://github.com/danhiggins-payroc/frogbot-demo1/actions/workflows/frogbot-scan.yml)
